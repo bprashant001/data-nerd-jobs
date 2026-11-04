@@ -11,8 +11,9 @@ on:
 permissions:
   contents: write
 
+# Shared with the news workflow so the two never push to docs/ at once.
 concurrency:
-  group: jobs-feed
+  group: feeds
   cancel-in-progress: false
 
 jobs:
@@ -56,4 +57,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs
           git commit -m "Jobs feed $(date -u +%Y-%m-%d)" || exit 0
+          git pull --rebase
           git push

@@ -1,9 +1,23 @@
-# Data Nerd jobs feed
+# Data Nerd feeds
 
-The daily list of data engineering roles shown in the
-[Data Nerd](https://play.google.com/store/apps/details?id=com.mangopickle.datanerd)
-app's Jobs tab. A GitHub Action rebuilds it every morning and publishes
-[`jobs.json`](https://bprashant001.github.io/data-nerd-jobs/jobs.json).
+Two public feeds for the
+[Data Nerd](https://play.google.com/store/apps/details?id=com.mangopickle.datanerd) app,
+rebuilt by GitHub Actions:
+
+- [`jobs.json`](https://bprashant001.github.io/data-nerd-jobs/jobs.json): data
+  engineering roles for the Jobs tab, every morning.
+- [`news.json`](https://bprashant001.github.io/data-nerd-jobs/news.json): data and
+  AI industry updates for the News tab, every three hours.
+
+## News sources
+
+`news/sources.yaml` lists them: first-party feeds that companies and labs
+publish for syndication (Databricks, Snowflake, dbt Labs, Confluent, AWS,
+Google Cloud, Azure, Apache, OpenAI, Google AI, Google DeepMind, Hugging Face)
+and Hacker News's official search API. Only the publisher's headline and its
+own short excerpt are kept, every item links to the original story, and each
+request is checked against the site's `robots.txt`. General press outlets are
+not used, because their feed terms limit reuse to personal reading.
 
 ## Where the jobs come from
 
@@ -26,9 +40,9 @@ forbid automated access.
 
 ## Opting out
 
-If you represent a company listed here and would like it removed, open an
-issue or email mangopickle909@gmail.com and it will be removed from
-`jobs/companies.yaml`.
+If you represent a company or publication listed here and would like it
+removed, open an issue or email mangopickle909@gmail.com and it will be removed
+from `jobs/companies.yaml` or `news/sources.yaml`.
 
 ## Layout
 
@@ -36,6 +50,8 @@ issue or email mangopickle909@gmail.com and it will be removed from
 jobs/companies_source.csv   Companies that commonly hire data engineers
 jobs/companies.yaml         Their public job boards (generated, then curated)
 tools/jobs/                 Discovery, fetching and classification scripts
+news/sources.yaml           News feeds
+tools/news/                 News fetcher and its tests
 docs/                       Published feed (GitHub Pages)
 ```
 

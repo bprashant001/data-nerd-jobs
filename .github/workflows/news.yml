@@ -1,0 +1,52 @@
+# Rebuilds the data & AI news feed every three hours and commits it to docs/,
+# served at https://bprashant001.github.io/data-nerd-jobs/news.json.
+name: News feed
+
+on:
+  schedule:
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Shared with the jobs workflow so the two never push to docs/ at once.
+concurrency:
+  group: feeds
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyyaml==6.0.2
+
+      - name: Test the rules
+        run: python -m unittest discover -s tools/news
+
+      - name: Fetch news
+        run: python tools/news/fetch_news.py --out docs
+
+      - name: Publish if the feed looks healthy
+        run: |
+          python - <<'PY'
+          import json, sys
+          n = len(json.load(open("docs/news.json", encoding="utf-8"))["items"])
+          print(f"{n} news items")
+          # Too few items means sources broke; keep the last good file.
+          sys.exit(0 if n >= 10 else 1)
+          PY
+          touch docs/.nojekyll
+          git config user.name "data-nerd-jobs-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/news.json docs/.nojekyll
+          git commit -m "News feed $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          git pull --rebase
+          git push

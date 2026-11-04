@@ -1,0 +1,22 @@
+# News sources for the Data Nerd News tab.
+#
+# Only first-party feeds that publishers provide for syndication (company and
+# lab blogs) plus Hacker News's official search API. General press outlets are
+# left out because their feed terms limit reuse to personal reading.
+#
+# topic:  default topic of every post (data | ai)
+# filter: true = keep only posts that match data/AI keywords (broad feeds)
+sources:
+  - {name: Databricks, url: "https://www.databricks.com/feed", topic: data}
+  - {name: Snowflake, url: "https://www.snowflake.com/feed/", topic: data}
+  - {name: dbt Labs, url: "https://www.getdbt.com/blog/rss.xml", topic: data}
+  - {name: Confluent, url: "https://www.confluent.io/rss.xml", topic: data}
+  - {name: AWS Big Data Blog, url: "https://aws.amazon.com/blogs/big-data/feed/", topic: data}
+  - {name: Google Cloud, url: "https://cloudblog.withgoogle.com/products/data-analytics/rss/", topic: data}
+  - {name: Microsoft Azure, url: "https://azure.microsoft.com/en-us/blog/feed/", topic: data, filter: true}
+  - {name: Apache Software Foundation, url: "https://news.apache.org/feed/", topic: data, filter: true}
+  - {name: OpenAI, url: "https://openai.com/news/rss.xml", topic: ai}
+  - {name: Google AI, url: "https://blog.google/technology/ai/rss/", topic: ai}
+  - {name: Google DeepMind, url: "https://deepmind.google/blog/rss.xml", topic: ai}
+  - {name: Hugging Face, url: "https://huggingface.co/blog/feed.xml", topic: ai}
+  - {name: Hacker News, kind: hackernews, topic: ai, filter: true}
