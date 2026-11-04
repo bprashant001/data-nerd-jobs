@@ -1,0 +1,1020 @@
+country,company,category
+India,Flipkart,Product company / startup
+India,Myntra,Product company / startup
+India,Meesho,Product company / startup
+India,Swiggy,Product company / startup
+India,Zomato,Product company / startup
+India,Zepto,Product company / startup
+India,Nykaa,Product company / startup
+India,Lenskart,Product company / startup
+India,Urban Company,Product company / startup
+India,Cars24,Product company / startup
+India,BigBasket,Product company / startup
+India,Delhivery,Product company / startup
+India,Razorpay,Product company / startup
+India,PhonePe,Product company / startup
+India,Paytm,Product company / startup
+India,CRED,Product company / startup
+India,Groww,Product company / startup
+India,Zerodha,Product company / startup
+India,Juspay,Product company / startup
+India,PolicyBazaar,Product company / startup
+India,Freshworks,Product company / startup
+India,Zoho,Product company / startup
+India,InMobi,Product company / startup
+India,ShareChat,Product company / startup
+India,Dream11,Product company / startup
+India,Ola,Product company / startup
+India,Atlassian,Product company / startup
+India,Uber,Product company / startup
+India,Snowflake,Data platform / tooling vendor
+India,Databricks,Data platform / tooling vendor
+India,Confluent,Data platform / tooling vendor
+India,Informatica,Data platform / tooling vendor
+India,Teradata,Data platform / tooling vendor
+India,MongoDB,Data platform / tooling vendor
+India,Elastic,Data platform / tooling vendor
+India,ThoughtSpot,Data platform / tooling vendor
+India,Fivetran,Data platform / tooling vendor
+India,dbt Labs,Data platform / tooling vendor
+India,Astronomer,Data platform / tooling vendor
+India,Amazon,Global tech (India center)
+India,Microsoft,Global tech (India center)
+India,Google,Global tech (India center)
+India,Oracle,Global tech (India center)
+India,SAP,Global tech (India center)
+India,Adobe,Global tech (India center)
+India,Salesforce,Global tech (India center)
+India,IBM,Global tech (India center)
+India,Intel,Global tech (India center)
+India,Qualcomm,Global tech (India center)
+India,Cisco,Global tech (India center)
+India,Intuit,Global tech (India center)
+India,PayPal,Global tech (India center)
+India,Walmart Global Tech,Global tech (India center)
+India,Target,Global tech (India center)
+India,Visa,Global tech (India center)
+India,Mastercard,Global tech (India center)
+India,JPMorgan Chase,Bank / finance / insurance
+India,Goldman Sachs,Bank / finance / insurance
+India,Morgan Stanley,Bank / finance / insurance
+India,American Express,Bank / finance / insurance
+India,Wells Fargo,Bank / finance / insurance
+India,Citi,Bank / finance / insurance
+India,Barclays,Bank / finance / insurance
+India,Deutsche Bank,Bank / finance / insurance
+India,UBS,Bank / finance / insurance
+India,HSBC,Bank / finance / insurance
+India,Standard Chartered,Bank / finance / insurance
+India,BlackRock,Bank / finance / insurance
+India,Fidelity,Bank / finance / insurance
+India,HDFC Bank,Bank / finance / insurance
+India,ICICI Bank,Bank / finance / insurance
+India,Axis Bank,Bank / finance / insurance
+India,Kotak Mahindra Bank,Bank / finance / insurance
+India,Bajaj Finserv,Bank / finance / insurance
+India,TCS,IT services / consulting
+India,Infosys,IT services / consulting
+India,Wipro,IT services / consulting
+India,HCL Technologies,IT services / consulting
+India,Tech Mahindra,IT services / consulting
+India,Cognizant,IT services / consulting
+India,Accenture,IT services / consulting
+India,Capgemini,IT services / consulting
+India,LTIMindtree,IT services / consulting
+India,Mphasis,IT services / consulting
+India,Persistent Systems,IT services / consulting
+India,Coforge,IT services / consulting
+India,Hexaware,IT services / consulting
+India,EPAM,IT services / consulting
+India,Thoughtworks,IT services / consulting
+India,Publicis Sapient,IT services / consulting
+India,Deloitte,IT services / consulting
+India,EY,IT services / consulting
+India,KPMG,IT services / consulting
+India,PwC,IT services / consulting
+India,Fractal Analytics,Analytics / data-focused firm
+India,Tiger Analytics,Analytics / data-focused firm
+India,Tredence,Analytics / data-focused firm
+India,LatentView,Analytics / data-focused firm
+India,Mu Sigma,Analytics / data-focused firm
+India,ZS Associates,Analytics / data-focused firm
+India,Genpact,Analytics / data-focused firm
+India,EXL,Analytics / data-focused firm
+India,WNS,Analytics / data-focused firm
+India,QuantumBlack (McKinsey),Analytics / data-focused firm
+India,BCG X,Analytics / data-focused firm
+India,Jio (Reliance),Telecom / other
+India,Airtel,Telecom / other
+India,Tata Digital,Telecom / other
+India,Optum (UnitedHealth),Telecom / other
+India,Philips,Telecom / other
+India,GE,Telecom / other
+India,Siemens,Telecom / other
+United States,Snowflake,Data platform / tooling vendor
+United States,Databricks,Data platform / tooling vendor
+United States,Confluent,Data platform / tooling vendor
+United States,Fivetran,Data platform / tooling vendor
+United States,dbt Labs,Data platform / tooling vendor
+United States,Astronomer,Data platform / tooling vendor
+United States,MongoDB,Data platform / tooling vendor
+United States,Elastic,Data platform / tooling vendor
+United States,Datadog,Data platform / tooling vendor
+United States,Splunk,Data platform / tooling vendor
+United States,Cloudera,Data platform / tooling vendor
+United States,Palantir,Data platform / tooling vendor
+United States,Teradata,Data platform / tooling vendor
+United States,Informatica,Data platform / tooling vendor
+United States,Starburst,Data platform / tooling vendor
+United States,Dremio,Data platform / tooling vendor
+United States,Airbyte,Data platform / tooling vendor
+United States,Hightouch,Data platform / tooling vendor
+United States,Monte Carlo,Data platform / tooling vendor
+United States,Collibra,Data platform / tooling vendor
+United States,Alteryx,Data platform / tooling vendor
+United States,Domo,Data platform / tooling vendor
+United States,ThoughtSpot,Data platform / tooling vendor
+United States,Sigma Computing,Data platform / tooling vendor
+United States,Hex,Data platform / tooling vendor
+United States,Redpanda,Data platform / tooling vendor
+United States,Amazon,Big tech
+United States,Microsoft,Big tech
+United States,Google,Big tech
+United States,Meta,Big tech
+United States,Apple,Big tech
+United States,Netflix,Big tech
+United States,Oracle,Big tech
+United States,Salesforce,Big tech
+United States,Adobe,Big tech
+United States,IBM,Big tech
+United States,Intel,Big tech
+United States,NVIDIA,Big tech
+United States,Cisco,Big tech
+United States,Uber,Big tech
+United States,Lyft,Big tech
+United States,Airbnb,Big tech
+United States,LinkedIn,Big tech
+United States,Pinterest,Big tech
+United States,Snap,Big tech
+United States,Dropbox,Big tech
+United States,Twilio,Big tech
+United States,eBay,Big tech
+United States,Intuit,Big tech
+United States,Tesla,Big tech
+United States,Walmart Global Tech,Big tech
+United States,JPMorgan Chase,Fintech / banks / investing
+United States,Goldman Sachs,Fintech / banks / investing
+United States,Morgan Stanley,Fintech / banks / investing
+United States,Bank of America,Fintech / banks / investing
+United States,Citi,Fintech / banks / investing
+United States,Wells Fargo,Fintech / banks / investing
+United States,Capital One,Fintech / banks / investing
+United States,American Express,Fintech / banks / investing
+United States,Visa,Fintech / banks / investing
+United States,Mastercard,Fintech / banks / investing
+United States,Fidelity,Fintech / banks / investing
+United States,Vanguard,Fintech / banks / investing
+United States,Charles Schwab,Fintech / banks / investing
+United States,BlackRock,Fintech / banks / investing
+United States,Stripe,Fintech / banks / investing
+United States,Block,Fintech / banks / investing
+United States,PayPal,Fintech / banks / investing
+United States,Robinhood,Fintech / banks / investing
+United States,Coinbase,Fintech / banks / investing
+United States,Plaid,Fintech / banks / investing
+United States,Chime,Fintech / banks / investing
+United States,SoFi,Fintech / banks / investing
+United States,Affirm,Fintech / banks / investing
+United States,Two Sigma,Fintech / banks / investing
+United States,Citadel,Fintech / banks / investing
+United States,Bloomberg,Fintech / banks / investing
+United States,S&P Global,Fintech / banks / investing
+United States,Fiserv,Fintech / banks / investing
+United States,FIS,Fintech / banks / investing
+United States,UnitedHealth Group / Optum,Healthcare / insurance / pharma
+United States,CVS Health,Healthcare / insurance / pharma
+United States,Elevance Health,Healthcare / insurance / pharma
+United States,Cigna,Healthcare / insurance / pharma
+United States,Humana,Healthcare / insurance / pharma
+United States,Kaiser Permanente,Healthcare / insurance / pharma
+United States,Pfizer,Healthcare / insurance / pharma
+United States,Johnson & Johnson,Healthcare / insurance / pharma
+United States,Oracle Health,Healthcare / insurance / pharma
+United States,HCA Healthcare,Healthcare / insurance / pharma
+United States,Walmart,Retail / consumer / media / telecom
+United States,Target,Retail / consumer / media / telecom
+United States,Home Depot,Retail / consumer / media / telecom
+United States,Kroger,Retail / consumer / media / telecom
+United States,Nike,Retail / consumer / media / telecom
+United States,Starbucks,Retail / consumer / media / telecom
+United States,Disney,Retail / consumer / media / telecom
+United States,Warner Bros. Discovery,Retail / consumer / media / telecom
+United States,Comcast,Retail / consumer / media / telecom
+United States,Verizon,Retail / consumer / media / telecom
+United States,AT&T,Retail / consumer / media / telecom
+United States,T-Mobile,Retail / consumer / media / telecom
+United States,DoorDash,Retail / consumer / media / telecom
+United States,Instacart,Retail / consumer / media / telecom
+United States,Accenture,IT services / consulting
+United States,Deloitte,IT services / consulting
+United States,EY,IT services / consulting
+United States,KPMG,IT services / consulting
+United States,PwC,IT services / consulting
+United States,Capgemini,IT services / consulting
+United States,Cognizant,IT services / consulting
+United States,Infosys,IT services / consulting
+United States,TCS,IT services / consulting
+United States,Wipro,IT services / consulting
+United States,Booz Allen Hamilton,IT services / consulting
+United States,Slalom,IT services / consulting
+United States,Thoughtworks,IT services / consulting
+United States,EPAM,IT services / consulting
+United States,Perficient,IT services / consulting
+United States,Experian,Data / credit analytics
+United States,Equifax,Data / credit analytics
+United States,TransUnion,Data / credit analytics
+United States,FICO,Data / credit analytics
+United States,Dun & Bradstreet,Data / credit analytics
+United States,Nielsen,Data / credit analytics
+Canada,Royal Bank of Canada (RBC),Bank / finance / insurance
+Canada,TD Bank,Bank / finance / insurance
+Canada,BMO,Bank / finance / insurance
+Canada,Scotiabank,Bank / finance / insurance
+Canada,CIBC,Bank / finance / insurance
+Canada,National Bank of Canada,Bank / finance / insurance
+Canada,Desjardins,Bank / finance / insurance
+Canada,Manulife,Bank / finance / insurance
+Canada,Sun Life,Bank / finance / insurance
+Canada,Canada Life,Bank / finance / insurance
+Canada,Intact Financial,Bank / finance / insurance
+Canada,Wealthsimple,Bank / finance / insurance
+Canada,Questrade,Bank / finance / insurance
+Canada,CPP Investments,Pension / investment
+Canada,Ontario Teachers' Pension Plan,Pension / investment
+Canada,OMERS,Pension / investment
+Canada,PSP Investments,Pension / investment
+Canada,Shopify,Product company / startup
+Canada,Lightspeed,Product company / startup
+Canada,Faire,Product company / startup
+Canada,Hootsuite,Product company / startup
+Canada,Nuvei,Product company / startup
+Canada,Clio,Product company / startup
+Canada,Ada,Product company / startup
+Canada,Coveo,Product company / startup
+Canada,Cohere,Product company / startup
+Canada,Kinaxis,Product company / startup
+Canada,D2L,Product company / startup
+Canada,ecobee,Product company / startup
+Canada,Telus,Telecom / media / enterprise software
+Canada,Rogers,Telecom / media / enterprise software
+Canada,Bell (BCE),Telecom / media / enterprise software
+Canada,Thomson Reuters,Telecom / media / enterprise software
+Canada,OpenText,Telecom / media / enterprise software
+Canada,Amazon,Global tech (Canada office)
+Canada,Microsoft,Global tech (Canada office)
+Canada,Google,Global tech (Canada office)
+Canada,IBM,Global tech (Canada office)
+Canada,Oracle,Global tech (Canada office)
+Canada,Salesforce,Global tech (Canada office)
+Canada,Uber,Global tech (Canada office)
+Canada,Autodesk,Global tech (Canada office)
+Canada,SAP,Global tech (Canada office)
+Canada,Snowflake,Global tech (Canada office)
+Canada,Databricks,Global tech (Canada office)
+Canada,Loblaw,Retail / energy / other
+Canada,Canadian Tire,Retail / energy / other
+Canada,Lululemon,Retail / energy / other
+Canada,Air Canada,Retail / energy / other
+Canada,Alimentation Couche-Tard,Retail / energy / other
+Canada,Suncor,Retail / energy / other
+Canada,Enbridge,Retail / energy / other
+Canada,Hydro-Quebec,Retail / energy / other
+Canada,Ubisoft Montreal,Retail / energy / other
+Canada,CGI,IT services / consulting
+Canada,Accenture,IT services / consulting
+Canada,Deloitte,IT services / consulting
+Canada,EY,IT services / consulting
+Canada,KPMG,IT services / consulting
+Canada,PwC,IT services / consulting
+Canada,Capgemini,IT services / consulting
+Canada,Cognizant,IT services / consulting
+Canada,Thoughtworks,IT services / consulting
+Canada,Slalom,IT services / consulting
+United Kingdom,Barclays,Bank / finance / insurance
+United Kingdom,HSBC,Bank / finance / insurance
+United Kingdom,Lloyds Banking Group,Bank / finance / insurance
+United Kingdom,NatWest Group,Bank / finance / insurance
+United Kingdom,Standard Chartered,Bank / finance / insurance
+United Kingdom,Santander UK,Bank / finance / insurance
+United Kingdom,Nationwide,Bank / finance / insurance
+United Kingdom,Aviva,Bank / finance / insurance
+United Kingdom,Legal & General,Bank / finance / insurance
+United Kingdom,Prudential,Bank / finance / insurance
+United Kingdom,LSEG (London Stock Exchange Group),Bank / finance / insurance
+United Kingdom,Man Group,Bank / finance / insurance
+United Kingdom,Schroders,Bank / finance / insurance
+United Kingdom,Admiral Group,Bank / finance / insurance
+United Kingdom,Monzo,Fintech
+United Kingdom,Revolut,Fintech
+United Kingdom,Starling Bank,Fintech
+United Kingdom,Wise,Fintech
+United Kingdom,Checkout.com,Fintech
+United Kingdom,GoCardless,Fintech
+United Kingdom,Zopa,Fintech
+United Kingdom,Deliveroo,Product company / startup
+United Kingdom,Ocado Technology,Product company / startup
+United Kingdom,Skyscanner,Product company / startup
+United Kingdom,Rightmove,Product company / startup
+United Kingdom,Auto Trader,Product company / startup
+United Kingdom,Trainline,Product company / startup
+United Kingdom,ASOS,Product company / startup
+United Kingdom,Darktrace,Product company / startup
+United Kingdom,Arm,Product company / startup
+United Kingdom,Google DeepMind,Product company / startup
+United Kingdom,Wayve,Product company / startup
+United Kingdom,BT Group,Telecom / media / retail
+United Kingdom,Vodafone,Telecom / media / retail
+United Kingdom,Sky,Telecom / media / retail
+United Kingdom,BBC,Telecom / media / retail
+United Kingdom,Tesco,Telecom / media / retail
+United Kingdom,Sainsbury's,Telecom / media / retail
+United Kingdom,Snowflake,Data platform / tooling vendor
+United Kingdom,Databricks,Data platform / tooling vendor
+United Kingdom,Confluent,Data platform / tooling vendor
+United Kingdom,Fivetran,Data platform / tooling vendor
+United Kingdom,dbt Labs,Data platform / tooling vendor
+United Kingdom,Datadog,Data platform / tooling vendor
+United Kingdom,MongoDB,Data platform / tooling vendor
+United Kingdom,Elastic,Data platform / tooling vendor
+United Kingdom,Amazon,Global tech (UK office)
+United Kingdom,Microsoft,Global tech (UK office)
+United Kingdom,Google,Global tech (UK office)
+United Kingdom,Meta,Global tech (UK office)
+United Kingdom,Oracle,Global tech (UK office)
+United Kingdom,Salesforce,Global tech (UK office)
+United Kingdom,IBM,Global tech (UK office)
+United Kingdom,Accenture,IT services / consulting
+United Kingdom,Deloitte,IT services / consulting
+United Kingdom,EY,IT services / consulting
+United Kingdom,KPMG,IT services / consulting
+United Kingdom,PwC,IT services / consulting
+United Kingdom,Capgemini,IT services / consulting
+United Kingdom,Cognizant,IT services / consulting
+United Kingdom,Thoughtworks,IT services / consulting
+United Kingdom,Kantar,IT services / consulting
+United Kingdom,GSK,Healthcare / pharma
+United Kingdom,AstraZeneca,Healthcare / pharma
+United Kingdom,Bupa,Healthcare / pharma
+Germany,SAP,Enterprise software / industrial
+Germany,Siemens,Enterprise software / industrial
+Germany,Bosch,Enterprise software / industrial
+Germany,Celonis,Enterprise software / industrial
+Germany,Personio,Enterprise software / industrial
+Germany,TeamViewer,Enterprise software / industrial
+Germany,Software AG,Enterprise software / industrial
+Germany,BMW Group,Automotive / manufacturing
+Germany,Mercedes-Benz,Automotive / manufacturing
+Germany,Volkswagen Group,Automotive / manufacturing
+Germany,Porsche,Automotive / manufacturing
+Germany,Zeiss,Automotive / manufacturing
+Germany,Infineon,Automotive / manufacturing
+Germany,BASF,Automotive / manufacturing
+Germany,Deutsche Bank,Bank / finance / insurance
+Germany,Commerzbank,Bank / finance / insurance
+Germany,Allianz,Bank / finance / insurance
+Germany,Munich Re,Bank / finance / insurance
+Germany,N26,Bank / finance / insurance
+Germany,Trade Republic,Bank / finance / insurance
+Germany,Zalando,Product company / startup
+Germany,Delivery Hero,Product company / startup
+Germany,HelloFresh,Product company / startup
+Germany,GetYourGuide,Product company / startup
+Germany,Auto1,Product company / startup
+Germany,Otto Group,Product company / startup
+Germany,Check24,Product company / startup
+Germany,Scout24,Product company / startup
+Germany,Flix,Product company / startup
+Germany,Deutsche Telekom,Telecom / logistics / energy
+Germany,T-Systems,Telecom / logistics / energy
+Germany,DHL Group,Telecom / logistics / energy
+Germany,Lufthansa,Telecom / logistics / energy
+Germany,E.ON,Telecom / logistics / energy
+Germany,RWE,Telecom / logistics / energy
+Germany,Bayer,Healthcare / pharma
+Germany,Merck KGaA,Healthcare / pharma
+Germany,Snowflake,Data platform / tooling vendor
+Germany,Databricks,Data platform / tooling vendor
+Germany,Confluent,Data platform / tooling vendor
+Germany,Exasol,Data platform / tooling vendor
+Germany,Amazon,Global tech (Germany office)
+Germany,Microsoft,Global tech (Germany office)
+Germany,Google,Global tech (Germany office)
+Germany,Accenture,IT services / consulting
+Germany,Deloitte,IT services / consulting
+Germany,EY,IT services / consulting
+Germany,KPMG,IT services / consulting
+Germany,PwC,IT services / consulting
+Germany,Capgemini,IT services / consulting
+Germany,Thoughtworks,IT services / consulting
+Netherlands,Booking.com,Product company / startup
+Netherlands,Adyen,Product company / startup
+Netherlands,bol.com,Product company / startup
+Netherlands,Coolblue,Product company / startup
+Netherlands,TomTom,Product company / startup
+Netherlands,Picnic,Product company / startup
+Netherlands,Mollie,Product company / startup
+Netherlands,Just Eat Takeaway.com,Product company / startup
+Netherlands,Exact,Product company / startup
+Netherlands,ING,Bank / finance / insurance
+Netherlands,ABN AMRO,Bank / finance / insurance
+Netherlands,Rabobank,Bank / finance / insurance
+Netherlands,NN Group,Bank / finance / insurance
+Netherlands,Aegon,Bank / finance / insurance
+Netherlands,Philips,Industrial / consumer / energy
+Netherlands,ASML,Industrial / consumer / energy
+Netherlands,Shell,Industrial / consumer / energy
+Netherlands,Heineken,Industrial / consumer / energy
+Netherlands,Unilever,Industrial / consumer / energy
+Netherlands,Ahold Delhaize,Industrial / consumer / energy
+Netherlands,KPN,Telecom / media
+Netherlands,Elsevier,Telecom / media
+Netherlands,Elastic,Data platform / tooling vendor
+Netherlands,Snowflake,Data platform / tooling vendor
+Netherlands,Databricks,Data platform / tooling vendor
+Netherlands,Accenture,IT services / consulting
+Netherlands,Deloitte,IT services / consulting
+Netherlands,EY,IT services / consulting
+Netherlands,KPMG,IT services / consulting
+Netherlands,PwC,IT services / consulting
+Netherlands,Capgemini,IT services / consulting
+Netherlands,Cognizant,IT services / consulting
+Ireland,Google,Global tech (Dublin hub)
+Ireland,Meta,Global tech (Dublin hub)
+Ireland,Microsoft,Global tech (Dublin hub)
+Ireland,Amazon (AWS),Global tech (Dublin hub)
+Ireland,Apple,Global tech (Dublin hub)
+Ireland,LinkedIn,Global tech (Dublin hub)
+Ireland,Salesforce,Global tech (Dublin hub)
+Ireland,Workday,Global tech (Dublin hub)
+Ireland,PayPal,Global tech (Dublin hub)
+Ireland,Airbnb,Global tech (Dublin hub)
+Ireland,TikTok,Global tech (Dublin hub)
+Ireland,Indeed,Global tech (Dublin hub)
+Ireland,Stripe,Product company / startup
+Ireland,Intercom,Product company / startup
+Ireland,Flutter Entertainment,Product company / startup
+Ireland,Zendesk,Product company / startup
+Ireland,Fidelity,Bank / finance
+Ireland,Citi,Bank / finance
+Ireland,Bank of Ireland,Bank / finance
+Ireland,AIB,Bank / finance
+Ireland,Ryanair,Other
+Ireland,Version 1,Other
+Ireland,Experian,Other
+Ireland,Eir,Other
+Ireland,Accenture,IT services / consulting
+Ireland,Deloitte,IT services / consulting
+Ireland,EY,IT services / consulting
+Ireland,KPMG,IT services / consulting
+Ireland,PwC,IT services / consulting
+France,BNP Paribas,Bank / finance / insurance
+France,Societe Generale,Bank / finance / insurance
+France,Credit Agricole,Bank / finance / insurance
+France,AXA,Bank / finance / insurance
+France,Qonto,Bank / finance / insurance
+France,Criteo,Product company / startup
+France,Doctolib,Product company / startup
+France,BlaBlaCar,Product company / startup
+France,Mirakl,Product company / startup
+France,Back Market,Product company / startup
+France,ManoMano,Product company / startup
+France,Mistral AI,Product company / startup
+France,Ubisoft,Product company / startup
+France,Dataiku,Data platform / tooling vendor
+France,Datadog (Paris),Data platform / tooling vendor
+France,Dassault Systemes,Industrial / energy / consumer
+France,Schneider Electric,Industrial / energy / consumer
+France,TotalEnergies,Industrial / energy / consumer
+France,Airbus,Industrial / energy / consumer
+France,Thales,Industrial / energy / consumer
+France,Renault,Industrial / energy / consumer
+France,Michelin,Industrial / energy / consumer
+France,L'Oreal,Industrial / energy / consumer
+France,Carrefour,Industrial / energy / consumer
+France,Orange,Telecom / pharma
+France,Sanofi,Telecom / pharma
+France,Capgemini,IT services / consulting
+France,Accenture,IT services / consulting
+France,Deloitte,IT services / consulting
+France,EY,IT services / consulting
+France,KPMG,IT services / consulting
+France,PwC,IT services / consulting
+Sweden,Spotify,Product company / startup
+Sweden,Klarna,Product company / startup
+Sweden,King,Product company / startup
+Sweden,Truecaller,Product company / startup
+Sweden,Tink,Product company / startup
+Sweden,Ericsson,Industrial / consumer
+Sweden,Volvo Group,Industrial / consumer
+Sweden,H&M,Industrial / consumer
+Sweden,IKEA,Industrial / consumer
+Sweden,Northvolt,Industrial / consumer
+Sweden,Nordea,Bank / finance
+Sweden,SEB,Bank / finance
+Sweden,Handelsbanken,Bank / finance
+Sweden,Swedbank,Bank / finance
+Sweden,Telia,Telecom
+Denmark,Maersk,Industrial / pharma / consumer
+Denmark,Novo Nordisk,Industrial / pharma / consumer
+Denmark,LEGO,Industrial / pharma / consumer
+Denmark,Vestas,Industrial / pharma / consumer
+Denmark,Orsted,Industrial / pharma / consumer
+Denmark,Danske Bank,Bank / finance / product
+Denmark,Pleo,Bank / finance / product
+Denmark,Trustpilot,Bank / finance / product
+Switzerland,UBS,Bank / finance / insurance
+Switzerland,Zurich Insurance,Bank / finance / insurance
+Switzerland,Swiss Re,Bank / finance / insurance
+Switzerland,Julius Baer,Bank / finance / insurance
+Switzerland,Nestle,Pharma / consumer / industrial
+Switzerland,Novartis,Pharma / consumer / industrial
+Switzerland,Roche,Pharma / consumer / industrial
+Switzerland,ABB,Pharma / consumer / industrial
+Switzerland,Lonza,Pharma / consumer / industrial
+Switzerland,Logitech,Pharma / consumer / industrial
+Switzerland,On,Pharma / consumer / industrial
+Switzerland,Swisscom,Telecom / retail / other
+Switzerland,Swiss Post,Telecom / retail / other
+Switzerland,Migros,Telecom / retail / other
+Switzerland,Temenos,Telecom / retail / other
+Switzerland,Avaloq,Telecom / retail / other
+Switzerland,Google,Global tech (Zurich office)
+Spain,Santander,Bank / finance / insurance
+Spain,BBVA,Bank / finance / insurance
+Spain,CaixaBank,Bank / finance / insurance
+Spain,Mapfre,Bank / finance / insurance
+Spain,Telefonica,Telecom / energy / retail
+Spain,Inditex,Telecom / energy / retail
+Spain,Iberdrola,Telecom / energy / retail
+Spain,Repsol,Telecom / energy / retail
+Spain,Endesa,Telecom / energy / retail
+Spain,Naturgy,Telecom / energy / retail
+Spain,Amadeus,Product company / startup
+Spain,Glovo,Product company / startup
+Spain,Cabify,Product company / startup
+Spain,Idealista,Product company / startup
+Spain,Typeform,Product company / startup
+Spain,Wallapop,Product company / startup
+Spain,Perk (TravelPerk),Product company / startup
+Poland,Allegro,Product company / startup
+Poland,InPost,Product company / startup
+Poland,CD Projekt,Product company / startup
+Poland,Netguru,Product company / startup
+Poland,10Clouds,Product company / startup
+Poland,PKO Bank Polski,Bank / telecom / IT
+Poland,mBank,Bank / telecom / IT
+Poland,Orange Polska,Bank / telecom / IT
+Poland,Asseco,Bank / telecom / IT
+Poland,Comarch,Bank / telecom / IT
+Poland,Goldman Sachs,Global (Poland hub)
+Poland,UBS,Global (Poland hub)
+Poland,State Street,Global (Poland hub)
+Poland,Motorola Solutions,Global (Poland hub)
+Poland,Nokia,Global (Poland hub)
+Poland,Intel,Global (Poland hub)
+Poland,EPAM,IT services / consulting
+Poland,Luxoft,IT services / consulting
+Poland,Grid Dynamics,IT services / consulting
+Poland,Accenture,IT services / consulting
+Poland,Capgemini,IT services / consulting
+Switzerland,Swiss Life,Bank / finance / insurance
+Switzerland,Helvetia,Bank / finance / insurance
+Switzerland,Baloise,Bank / finance / insurance
+Switzerland,Mobiliar,Bank / finance / insurance
+Switzerland,Vontobel,Bank / finance / insurance
+Switzerland,Lombard Odier,Bank / finance / insurance
+Switzerland,Pictet,Bank / finance / insurance
+Switzerland,Raiffeisen Switzerland,Bank / finance / insurance
+Switzerland,Zurcher Kantonalbank (ZKB),Bank / finance / insurance
+Switzerland,PostFinance,Bank / finance / insurance
+Switzerland,SIX Group,Bank / finance / insurance
+Switzerland,Syngenta,Pharma / consumer / industrial
+Switzerland,Givaudan,Pharma / consumer / industrial
+Switzerland,Firmenich,Pharma / consumer / industrial
+Switzerland,Holcim,Pharma / consumer / industrial
+Switzerland,Glencore,Pharma / consumer / industrial
+Switzerland,Richemont,Pharma / consumer / industrial
+Switzerland,Kuehne+Nagel,Pharma / consumer / industrial
+Switzerland,Schindler,Pharma / consumer / industrial
+Switzerland,Swatch Group,Pharma / consumer / industrial
+Switzerland,Sonova,Pharma / consumer / industrial
+Switzerland,Straumann,Pharma / consumer / industrial
+Switzerland,Sunrise,Telecom / retail / transport
+Switzerland,Salt,Telecom / retail / transport
+Switzerland,Coop,Telecom / retail / transport
+Switzerland,SBB (Swiss Federal Railways),Telecom / retail / transport
+Switzerland,Digitec Galaxus,Telecom / retail / transport
+Switzerland,Scandit,Product company / startup / software
+Switzerland,Beekeeper,Product company / startup / software
+Switzerland,SoftwareONE,Product company / startup / software
+Switzerland,Netcetera,Product company / startup / software
+Switzerland,Zuhlke,Product company / startup / software
+Switzerland,Adnovum,Product company / startup / software
+Switzerland,Ringier,Product company / startup / software
+Switzerland,TX Group,Product company / startup / software
+Switzerland,Microsoft,Global tech (Switzerland office)
+Switzerland,Meta,Global tech (Switzerland office)
+Switzerland,Apple,Global tech (Switzerland office)
+Switzerland,IBM Research Zurich,Global tech (Switzerland office)
+Switzerland,Oracle,Global tech (Switzerland office)
+Switzerland,Amazon,Global tech (Switzerland office)
+Switzerland,Accenture,IT services / consulting
+Switzerland,Deloitte,IT services / consulting
+Switzerland,EY,IT services / consulting
+Switzerland,KPMG,IT services / consulting
+Switzerland,PwC,IT services / consulting
+Switzerland,Capgemini,IT services / consulting
+Japan,Rakuten,Internet / product company
+Japan,LY Corporation (LINE Yahoo),Internet / product company
+Japan,Mercari,Internet / product company
+Japan,CyberAgent,Internet / product company
+Japan,DeNA,Internet / product company
+Japan,Recruit Holdings,Internet / product company
+Japan,SmartNews,Internet / product company
+Japan,freee,Internet / product company
+Japan,Money Forward,Internet / product company
+Japan,Sansan,Internet / product company
+Japan,PayPay,Internet / product company
+Japan,ZOZO,Internet / product company
+Japan,LayerX,Internet / product company
+Japan,Cookpad,Internet / product company
+Japan,Preferred Networks,Internet / product company
+Japan,Sony,Electronics / automotive / industrial
+Japan,Toyota,Electronics / automotive / industrial
+Japan,Honda,Electronics / automotive / industrial
+Japan,Nissan,Electronics / automotive / industrial
+Japan,Panasonic,Electronics / automotive / industrial
+Japan,Hitachi,Electronics / automotive / industrial
+Japan,Toshiba,Electronics / automotive / industrial
+Japan,Canon,Electronics / automotive / industrial
+Japan,Denso,Electronics / automotive / industrial
+Japan,Mitsubishi Electric,Electronics / automotive / industrial
+Japan,Nintendo,Electronics / automotive / industrial
+Japan,SoftBank,Telecom
+Japan,KDDI,Telecom
+Japan,NTT Docomo,Telecom
+Japan,Rakuten Mobile,Telecom
+Japan,MUFG,Bank / finance / insurance
+Japan,Mizuho Financial Group,Bank / finance / insurance
+Japan,SMBC (Sumitomo Mitsui),Bank / finance / insurance
+Japan,Nomura,Bank / finance / insurance
+Japan,SBI Holdings,Bank / finance / insurance
+Japan,Daiwa Securities,Bank / finance / insurance
+Japan,Tokio Marine,Bank / finance / insurance
+Japan,MS&AD Insurance,Bank / finance / insurance
+Japan,Sompo,Bank / finance / insurance
+Japan,ORIX,Bank / finance / insurance
+Japan,Fast Retailing (Uniqlo),Retail / consumer
+Japan,Seven & i Holdings,Retail / consumer
+Japan,Aeon,Retail / consumer
+Japan,Shiseido,Retail / consumer
+Japan,Kao,Retail / consumer
+Japan,NTT Data,IT services / consulting
+Japan,Fujitsu,IT services / consulting
+Japan,NEC,IT services / consulting
+Japan,TIS,IT services / consulting
+Japan,Nomura Research Institute (NRI),IT services / consulting
+Japan,Accenture Japan,IT services / consulting
+Japan,Deloitte Tohmatsu,IT services / consulting
+Japan,EY Japan,IT services / consulting
+Japan,KPMG Japan,IT services / consulting
+Japan,PwC Japan,IT services / consulting
+Japan,IBM Japan,IT services / consulting
+Japan,Dentsu,IT services / consulting
+Japan,Amazon,Global tech (Japan office)
+Japan,Google,Global tech (Japan office)
+Japan,Microsoft,Global tech (Japan office)
+Japan,Oracle,Global tech (Japan office)
+Japan,Salesforce,Global tech (Japan office)
+Japan,Snowflake,Global tech (Japan office)
+Japan,Databricks,Global tech (Japan office)
+South Korea,Naver,Internet / product company
+South Korea,Kakao,Internet / product company
+South Korea,Coupang,Internet / product company
+South Korea,Woowa Brothers (Baemin),Internet / product company
+South Korea,Toss (Viva Republica),Internet / product company
+South Korea,Karrot (Danggeun),Internet / product company
+South Korea,Musinsa,Internet / product company
+South Korea,Kurly,Internet / product company
+South Korea,Yanolja,Internet / product company
+South Korea,Hyperconnect,Internet / product company
+South Korea,Kakao Pay,Internet / product company
+South Korea,Kakao Bank,Internet / product company
+South Korea,Kakao Mobility,Internet / product company
+South Korea,LINE Plus,Internet / product company
+South Korea,Naver Cloud,Internet / product company
+South Korea,Krafton,Gaming
+South Korea,NCSoft,Gaming
+South Korea,Netmarble,Gaming
+South Korea,Nexon,Gaming
+South Korea,Samsung Electronics,Electronics / conglomerate
+South Korea,Samsung SDS,Electronics / conglomerate
+South Korea,LG Electronics,Electronics / conglomerate
+South Korea,LG CNS,Electronics / conglomerate
+South Korea,LG AI Research,Electronics / conglomerate
+South Korea,SK Hynix,Electronics / conglomerate
+South Korea,SK Inc. (SK C&C),Electronics / conglomerate
+South Korea,Hyundai Motor Group,Electronics / conglomerate
+South Korea,Hyundai AutoEver,Electronics / conglomerate
+South Korea,Kia,Electronics / conglomerate
+South Korea,Hyundai Mobis,Electronics / conglomerate
+South Korea,POSCO,Electronics / conglomerate
+South Korea,Lotte,Electronics / conglomerate
+South Korea,CJ Group,Electronics / conglomerate
+South Korea,Hanwha,Electronics / conglomerate
+South Korea,SK Telecom,Telecom
+South Korea,KT,Telecom
+South Korea,LG Uplus,Telecom
+South Korea,KB Kookmin Bank,Bank / finance / insurance
+South Korea,Shinhan Bank,Bank / finance / insurance
+South Korea,Hana Bank,Bank / finance / insurance
+South Korea,Woori Bank,Bank / finance / insurance
+South Korea,NH Nonghyup Bank,Bank / finance / insurance
+South Korea,Mirae Asset,Bank / finance / insurance
+South Korea,Samsung Life,Bank / finance / insurance
+South Korea,Samsung Card,Bank / finance / insurance
+South Korea,Hyundai Card,Bank / finance / insurance
+South Korea,Shinhan Card,Bank / finance / insurance
+South Korea,Upstage,AI / startup
+South Korea,Riiid,AI / startup
+South Korea,Twelve Labs,AI / startup
+South Korea,Lunit,AI / startup
+South Korea,Google,Global tech / consulting (Korea office)
+South Korea,Amazon Web Services,Global tech / consulting (Korea office)
+South Korea,Microsoft,Global tech / consulting (Korea office)
+South Korea,Oracle,Global tech / consulting (Korea office)
+South Korea,Accenture,Global tech / consulting (Korea office)
+South Korea,Deloitte,Global tech / consulting (Korea office)
+South Korea,EY,Global tech / consulting (Korea office)
+South Korea,KPMG (Samil),Global tech / consulting (Korea office)
+South Korea,PwC (Samil),Global tech / consulting (Korea office)
+Singapore,Grab,Internet / product company
+Singapore,"Sea Group (Shopee, Garena)",Internet / product company
+Singapore,Lazada,Internet / product company
+Singapore,Razer,Internet / product company
+Singapore,Carousell,Internet / product company
+Singapore,Gojek,Internet / product company
+Singapore,TikTok / ByteDance,Internet / product company
+Singapore,Ninja Van,Internet / product company
+Singapore,PropertyGuru,Internet / product company
+Singapore,Nium,Internet / product company
+Singapore,Airwallex,Internet / product company
+Singapore,Trax,Internet / product company
+Singapore,Advance Intelligence Group,Internet / product company
+Singapore,Funding Societies,Internet / product company
+Singapore,Coda Payments,Internet / product company
+Singapore,DBS,Bank / finance / insurance
+Singapore,OCBC,Bank / finance / insurance
+Singapore,UOB,Bank / finance / insurance
+Singapore,Standard Chartered,Bank / finance / insurance
+Singapore,HSBC,Bank / finance / insurance
+Singapore,Citi,Bank / finance / insurance
+Singapore,JPMorgan Chase,Bank / finance / insurance
+Singapore,Goldman Sachs,Bank / finance / insurance
+Singapore,Morgan Stanley,Bank / finance / insurance
+Singapore,Deutsche Bank,Bank / finance / insurance
+Singapore,UBS,Bank / finance / insurance
+Singapore,Barclays,Bank / finance / insurance
+Singapore,Maybank,Bank / finance / insurance
+Singapore,GIC,Bank / finance / insurance
+Singapore,Temasek,Bank / finance / insurance
+Singapore,SGX Group,Bank / finance / insurance
+Singapore,Great Eastern,Bank / finance / insurance
+Singapore,Prudential,Bank / finance / insurance
+Singapore,AIA,Bank / finance / insurance
+Singapore,Manulife,Bank / finance / insurance
+Singapore,Singlife,Bank / finance / insurance
+Singapore,Singtel,Telecom / transport / government
+Singapore,StarHub,Telecom / transport / government
+Singapore,M1,Telecom / transport / government
+Singapore,Singapore Airlines,Telecom / transport / government
+Singapore,PSA International,Telecom / transport / government
+Singapore,Changi Airport Group,Telecom / transport / government
+Singapore,SP Group,Telecom / transport / government
+Singapore,GovTech Singapore,Telecom / transport / government
+Singapore,DSTA,Telecom / transport / government
+Singapore,Google,Global tech (Singapore office)
+Singapore,Meta,Global tech (Singapore office)
+Singapore,Amazon (AWS),Global tech (Singapore office)
+Singapore,Microsoft,Global tech (Singapore office)
+Singapore,Apple,Global tech (Singapore office)
+Singapore,Oracle,Global tech (Singapore office)
+Singapore,Salesforce,Global tech (Singapore office)
+Singapore,Snowflake,Global tech (Singapore office)
+Singapore,Databricks,Global tech (Singapore office)
+Singapore,LinkedIn,Global tech (Singapore office)
+Singapore,Visa,Global tech (Singapore office)
+Singapore,Mastercard,Global tech (Singapore office)
+Singapore,PayPal,Global tech (Singapore office)
+Singapore,Stripe,Global tech (Singapore office)
+Singapore,Accenture,IT services / consulting
+Singapore,Deloitte,IT services / consulting
+Singapore,EY,IT services / consulting
+Singapore,KPMG,IT services / consulting
+Singapore,PwC,IT services / consulting
+Singapore,Capgemini,IT services / consulting
+Singapore,Cognizant,IT services / consulting
+Singapore,Thoughtworks,IT services / consulting
+Australia,Commonwealth Bank (CBA),Bank / finance / insurance
+Australia,Westpac,Bank / finance / insurance
+Australia,ANZ,Bank / finance / insurance
+Australia,NAB,Bank / finance / insurance
+Australia,Macquarie Group,Bank / finance / insurance
+Australia,Suncorp,Bank / finance / insurance
+Australia,IAG,Bank / finance / insurance
+Australia,QBE,Bank / finance / insurance
+Australia,AMP,Bank / finance / insurance
+Australia,Bendigo Bank,Bank / finance / insurance
+Australia,Medibank,Bank / finance / insurance
+Australia,Zip Co,Bank / finance / insurance
+Australia,Block (Afterpay),Bank / finance / insurance
+Australia,Atlassian,Product company / startup
+Australia,Canva,Product company / startup
+Australia,Xero,Product company / startup
+Australia,REA Group,Product company / startup
+Australia,SEEK,Product company / startup
+Australia,Domain,Product company / startup
+Australia,carsales,Product company / startup
+Australia,Airwallex,Product company / startup
+Australia,Linktree,Product company / startup
+Australia,SafetyCulture,Product company / startup
+Australia,Culture Amp,Product company / startup
+Australia,Employment Hero,Product company / startup
+Australia,Tyro,Product company / startup
+Australia,PEXA,Product company / startup
+Australia,Envato,Product company / startup
+Australia,WiseTech Global,Product company / startup
+Australia,TechnologyOne,Product company / startup
+Australia,Iress,Product company / startup
+Australia,Woolworths Group,Retail / telecom / media / transport
+Australia,Coles,Retail / telecom / media / transport
+Australia,Telstra,Retail / telecom / media / transport
+Australia,Optus,Retail / telecom / media / transport
+Australia,Qantas,Retail / telecom / media / transport
+Australia,Foxtel,Retail / telecom / media / transport
+Australia,Nine Entertainment,Retail / telecom / media / transport
+Australia,Transurban,Retail / telecom / media / transport
+Australia,BHP,Mining / energy / healthcare
+Australia,Rio Tinto,Mining / energy / healthcare
+Australia,Fortescue,Mining / energy / healthcare
+Australia,Origin Energy,Mining / energy / healthcare
+Australia,AGL,Mining / energy / healthcare
+Australia,Santos,Mining / energy / healthcare
+Australia,Woodside,Mining / energy / healthcare
+Australia,CSL,Mining / energy / healthcare
+Australia,ResMed,Mining / energy / healthcare
+Australia,Bupa Australia,Mining / energy / healthcare
+Australia,Services Australia,Government / research
+Australia,Australian Taxation Office (ATO),Government / research
+Australia,CSIRO Data61,Government / research
+Australia,Amazon (AWS),Global tech (Australia office)
+Australia,Google,Global tech (Australia office)
+Australia,Microsoft,Global tech (Australia office)
+Australia,Snowflake,Global tech (Australia office)
+Australia,Databricks,Global tech (Australia office)
+Australia,Salesforce,Global tech (Australia office)
+Australia,Oracle,Global tech (Australia office)
+Australia,IBM,Global tech (Australia office)
+Australia,SAP,Global tech (Australia office)
+Australia,Uber,Global tech (Australia office)
+Australia,Meta,Global tech (Australia office)
+Australia,Accenture,IT services / consulting
+Australia,Deloitte,IT services / consulting
+Australia,EY,IT services / consulting
+Australia,KPMG,IT services / consulting
+Australia,PwC,IT services / consulting
+Australia,Capgemini,IT services / consulting
+Australia,Cognizant,IT services / consulting
+Australia,Thoughtworks,IT services / consulting
+Australia,Infosys,IT services / consulting
+Australia,TCS,IT services / consulting
+Australia,Wipro,IT services / consulting
+Australia,Slalom,IT services / consulting
+United Arab Emirates,Emirates NBD,Bank / finance
+United Arab Emirates,First Abu Dhabi Bank (FAB),Bank / finance
+United Arab Emirates,Abu Dhabi Commercial Bank (ADCB),Bank / finance
+United Arab Emirates,Mashreq Bank,Bank / finance
+United Arab Emirates,Dubai Islamic Bank,Bank / finance
+United Arab Emirates,Abu Dhabi Islamic Bank (ADIB),Bank / finance
+United Arab Emirates,Mubadala,Bank / finance
+United Arab Emirates,G42,AI / data / government-linked tech
+United Arab Emirates,Core42,AI / data / government-linked tech
+United Arab Emirates,Presight AI,AI / data / government-linked tech
+United Arab Emirates,Technology Innovation Institute (TII),AI / data / government-linked tech
+United Arab Emirates,e& (Etisalat),AI / data / government-linked tech
+United Arab Emirates,du,AI / data / government-linked tech
+United Arab Emirates,Careem,Internet / product company
+United Arab Emirates,Noon,Internet / product company
+United Arab Emirates,Talabat,Internet / product company
+United Arab Emirates,Property Finder,Internet / product company
+United Arab Emirates,Dubizzle,Internet / product company
+United Arab Emirates,Tabby,Internet / product company
+United Arab Emirates,Swvl,Internet / product company
+United Arab Emirates,Emirates Group,Aviation / energy / real estate / retail
+United Arab Emirates,Etihad Airways,Aviation / energy / real estate / retail
+United Arab Emirates,ADNOC,Aviation / energy / real estate / retail
+United Arab Emirates,DEWA,Aviation / energy / real estate / retail
+United Arab Emirates,DP World,Aviation / energy / real estate / retail
+United Arab Emirates,Emaar,Aviation / energy / real estate / retail
+United Arab Emirates,Aldar,Aviation / energy / real estate / retail
+United Arab Emirates,Dubai Holding,Aviation / energy / real estate / retail
+United Arab Emirates,Majid Al Futtaim,Aviation / energy / real estate / retail
+United Arab Emirates,Lulu Group,Aviation / energy / real estate / retail
+United Arab Emirates,Microsoft,Global tech (UAE office)
+United Arab Emirates,Google,Global tech (UAE office)
+United Arab Emirates,Amazon (AWS),Global tech (UAE office)
+United Arab Emirates,Oracle,Global tech (UAE office)
+United Arab Emirates,IBM,Global tech (UAE office)
+United Arab Emirates,SAP,Global tech (UAE office)
+United Arab Emirates,Salesforce,Global tech (UAE office)
+United Arab Emirates,Mastercard,Global tech (UAE office)
+United Arab Emirates,Visa,Global tech (UAE office)
+United Arab Emirates,PayPal,Global tech (UAE office)
+United Arab Emirates,Accenture,IT services / consulting
+United Arab Emirates,Deloitte,IT services / consulting
+United Arab Emirates,EY,IT services / consulting
+United Arab Emirates,KPMG,IT services / consulting
+United Arab Emirates,PwC,IT services / consulting
+United Arab Emirates,Capgemini,IT services / consulting
+United Arab Emirates,Cognizant,IT services / consulting
+United Arab Emirates,Infosys,IT services / consulting
+United Arab Emirates,Wipro,IT services / consulting
+United Arab Emirates,TCS,IT services / consulting
+Remote (Global),dbt Labs,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Fivetran,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Astronomer,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Airbyte,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Hightouch,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Monte Carlo,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Metabase,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Preset,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Prefect,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Dagster Labs,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Materialize,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Redpanda,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Cribl,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Hex,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Starburst,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Dremio,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Databricks,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Snowflake,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Confluent,Data platform / tooling vendor (remote-friendly)
+Remote (Global),MongoDB,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Elastic,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Grafana Labs,Data platform / tooling vendor (remote-friendly)
+Remote (Global),PostHog,Data platform / tooling vendor (remote-friendly)
+Remote (Global),Supabase,Data platform / tooling vendor (remote-friendly)
+Remote (Global),GitLab,Remote-first / remote-friendly product company
+Remote (Global),Automattic,Remote-first / remote-friendly product company
+Remote (Global),Zapier,Remote-first / remote-friendly product company
+Remote (Global),Mozilla,Remote-first / remote-friendly product company
+Remote (Global),Wikimedia Foundation,Remote-first / remote-friendly product company
+Remote (Global),Canonical,Remote-first / remote-friendly product company
+Remote (Global),DuckDuckGo,Remote-first / remote-friendly product company
+Remote (Global),37signals,Remote-first / remote-friendly product company
+Remote (Global),Buffer,Remote-first / remote-friendly product company
+Remote (Global),Doist,Remote-first / remote-friendly product company
+Remote (Global),Vercel,Remote-first / remote-friendly product company
+Remote (Global),Netlify,Remote-first / remote-friendly product company
+Remote (Global),Deel,Remote-first / remote-friendly product company
+Remote (Global),Remote,Remote-first / remote-friendly product company
+Remote (Global),Oyster,Remote-first / remote-friendly product company
+Remote (Global),HashiCorp,Remote-first / remote-friendly product company
+Remote (Global),Red Hat,Remote-first / remote-friendly product company
+Remote (Global),Reddit,Remote-first / remote-friendly product company
+Remote (Global),Coursera,Remote-first / remote-friendly product company
+Remote (Global),Dropbox,Remote-first / remote-friendly product company
+Remote (Global),Spotify,Remote-first / remote-friendly product company
+Remote (Global),Atlassian,Remote-first / remote-friendly product company
+Remote (Global),Shopify,Remote-first / remote-friendly product company
+Remote (Global),Airbnb,Remote-first / remote-friendly product company
+Remote (Global),Wise,Fintech (remote-friendly)
+Remote (Global),Gusto,Fintech (remote-friendly)
+Remote (Global),Block,Fintech (remote-friendly)
+Remote (Global),Affirm,Fintech (remote-friendly)
+Remote (Global),Mercury,Fintech (remote-friendly)
+Remote (Global),Chime,Fintech (remote-friendly)
+Remote (Global),Stripe,Fintech (remote-friendly)
+Remote (Global),Coinbase,Fintech (remote-friendly)
+Remote (Global),phData,Snowflake / data consultancy (remote-friendly)
+Remote (Global),Hakkoda,Snowflake / data consultancy (remote-friendly)
+Remote (Global),InterWorks,Snowflake / data consultancy (remote-friendly)
+Remote (Global),Infostrux,Snowflake / data consultancy (remote-friendly)
+Remote (Global),Brooklyn Data Co.,Snowflake / data consultancy (remote-friendly)
+Remote (Global),Toptal,Talent marketplace / contract data roles
+Remote (Global),Turing,Talent marketplace / contract data roles
+Remote (Global),Andela,Talent marketplace / contract data roles
+Remote (Global),Crossover,Talent marketplace / contract data roles
+Remote (Global),Upwork,Talent marketplace / contract data roles
+Remote (Global),Flatiron Health,Healthcare data (remote-friendly)
+Remote (Global),Komodo Health,Healthcare data (remote-friendly)
